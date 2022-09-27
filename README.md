@@ -1,8 +1,12 @@
-Grupo 2 (Fede R. - Fede P. - Ema) - STEPS:
+
+***********Grupo 2 (Fede R. - Fede P. - Ema)************** 
+- STEPS:
+
+Precondicion: definir una ruta para el repositorio a descargar antes de abrir terminarl Bash.
 
 1) Abrir una terminal Git Bash
 
-2)Ejecutar: git clone https://github.com/federicormn/repo_practicaGit_tarde.git
+2) Ejecutar: git clone https://github.com/federicormn/repo_practicaGit_tarde.git
 (repo privado, pedir acceso)
 
 3) Moverse a la carpeta clonada ejecutando: cd /rutaDelRepo
