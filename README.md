@@ -1,9 +1,9 @@
 Grupo 2 (Fede R. - Fede P. - Ema) - STEPS:
 
-1)Ejecutar: git clone https://github.com/federicormn/repo_practicaGit_tarde.git
-(repo privado, pedir acceso)
+1) Abrir una terminal Git Bash
 
-2) Abrir una terminal de Git Bash
+2)Ejecutar: git clone https://github.com/federicormn/repo_practicaGit_tarde.git
+(repo privado, pedir acceso)
 
 3) Moverse a la carpeta clonada ejecutando: cd /rutaDelRepo
 
